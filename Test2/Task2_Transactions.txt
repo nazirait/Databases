@@ -1,0 +1,59 @@
+C:\Oracle\Middleware\Oracle_Home\oracle_common\jdk\bin\javaw.exe -server -classpath C:\JDeveloper\mywork\demoproject\.adf;C:\JDeveloper\mywork\demoproject\demoproject\classes;C:\Users\Administrator\Downloads\jdbc\sqljdbc_4.1\enu\jre7\sqljdbc41.jar -Djavax.net.ssl.trustStore=C:\Users\ADMINI~1\AppData\Local\Temp\2\trustStore6815681036519485962.jks demoproject.MyScript
+TR1:
+Invoice Key: 5, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 1968.0, Tax Percentage: 23.0
+Invoice Key: 9, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 984.0, Tax Percentage: 23.0
+Invoice Key: 10, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 1968.0, Tax Percentage: 23.0
+Invoice Key: 13, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 492.0, Tax Percentage: 23.0
+Invoice Key: 14, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 984.0, Tax Percentage: 23.0
+Invoice Key: 15, Invoice Date: 2023-05-22, Net Amount: 300.0, Gross Amount: 1476.0, Tax Percentage: 23.0
+Invoice Key: 17, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 246.0, Tax Percentage: 23.0
+Invoice Key: 18, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 492.0, Tax Percentage: 23.0
+Invoice Key: 19, Invoice Date: 2023-05-22, Net Amount: 300.0, Gross Amount: 738.0, Tax Percentage: 23.0
+Invoice Key: 20, Invoice Date: 2023-05-22, Net Amount: 1000.0, Gross Amount: 1230.0, Tax Percentage: 23.0
+Invoice Key: 21, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 615.0, Tax Percentage: 23.0
+Invoice Key: 22, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 615.0, Tax Percentage: 23.0
+Invoice Key: 23, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 615.0, Tax Percentage: 23.0
+Invoice Key: 24, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 615.0, Tax Percentage: 23.0
+TR2:
+Invoice Key: 5, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 1968.0, Tax Percentage: 23.0
+Invoice Key: 9, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 984.0, Tax Percentage: 23.0
+Invoice Key: 10, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 1968.0, Tax Percentage: 23.0
+Invoice Key: 13, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 492.0, Tax Percentage: 23.0
+Invoice Key: 14, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 984.0, Tax Percentage: 23.0
+Invoice Key: 15, Invoice Date: 2023-05-22, Net Amount: 300.0, Gross Amount: 1476.0, Tax Percentage: 23.0
+Invoice Key: 17, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 246.0, Tax Percentage: 23.0
+Invoice Key: 18, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 492.0, Tax Percentage: 23.0
+Invoice Key: 19, Invoice Date: 2023-05-22, Net Amount: 300.0, Gross Amount: 738.0, Tax Percentage: 23.0
+Invoice Key: 20, Invoice Date: 2023-05-22, Net Amount: 1000.0, Gross Amount: 1230.0, Tax Percentage: 23.0
+Invoice Key: 21, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 615.0, Tax Percentage: 23.0
+Invoice Key: 22, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 615.0, Tax Percentage: 23.0
+Invoice Key: 23, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 615.0, Tax Percentage: 23.0
+Invoice Key: 24, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 615.0, Tax Percentage: 23.0
+Invoice Key: 25, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 123.0, Tax Percentage: 23.0
+Invoice Key: 26, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 246.0, Tax Percentage: 23.0
+Invoice Key: 27, Invoice Date: 2023-05-22, Net Amount: 300.0, Gross Amount: 369.0, Tax Percentage: 23.0
+TR3:
+Invoice Key: 5, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 3936.0, Tax Percentage: 23.0
+Invoice Key: 9, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 1968.0, Tax Percentage: 23.0
+Invoice Key: 10, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 3936.0, Tax Percentage: 23.0
+Invoice Key: 13, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 984.0, Tax Percentage: 23.0
+Invoice Key: 14, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 1968.0, Tax Percentage: 23.0
+Invoice Key: 15, Invoice Date: 2023-05-22, Net Amount: 300.0, Gross Amount: 2952.0, Tax Percentage: 23.0
+Invoice Key: 17, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 492.0, Tax Percentage: 23.0
+Invoice Key: 18, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 984.0, Tax Percentage: 23.0
+Invoice Key: 19, Invoice Date: 2023-05-22, Net Amount: 300.0, Gross Amount: 1476.0, Tax Percentage: 23.0
+Invoice Key: 20, Invoice Date: 2023-05-22, Net Amount: 1000.0, Gross Amount: 2460.0, Tax Percentage: 23.0
+Invoice Key: 21, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 1230.0, Tax Percentage: 23.0
+Invoice Key: 22, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 1230.0, Tax Percentage: 23.0
+Invoice Key: 23, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 1230.0, Tax Percentage: 23.0
+Invoice Key: 24, Invoice Date: 2023-05-22, Net Amount: 500.0, Gross Amount: 1230.0, Tax Percentage: 23.0
+Invoice Key: 25, Invoice Date: 2023-05-22, Net Amount: 100.0, Gross Amount: 246.0, Tax Percentage: 23.0
+Invoice Key: 26, Invoice Date: 2023-05-22, Net Amount: 200.0, Gross Amount: 492.0, Tax Percentage: 23.0
+Invoice Key: 27, Invoice Date: 2023-05-22, Net Amount: 300.0, Gross Amount: 738.0, Tax Percentage: 23.0
+Invoice Key: 28, Invoice Date: 2023-05-22, Net Amount: 1000.0, Gross Amount: 1230.0, Tax Percentage: 23.0
+com.microsoft.sqlserver.jdbc.SQLServerException: The result set is closed.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:190)
+	at com.microsoft.sqlserver.jdbc.SQLServerResultSet.checkClosed(SQLServerResultSet.java:372)
+	at com.microsoft.sqlserver.jdbc.SQLServerResultSet.next(SQLServerResultSet.java:994)
+	at demoproject.MyScript.main(MyScript.java:64)
+Process exited with exit code 0.
